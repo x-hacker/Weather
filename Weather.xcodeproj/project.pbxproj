@@ -47,6 +47,7 @@
 		B90EDC881BC17513001A267E /* WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B90EDC8C1BC17513001A267E /* WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITests.swift; sourceTree = "<group>"; };
 		B90EDC8E1BC17513001A267E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B90EDC9A1BC1774C001A267E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				B90EDC731BC17513001A267E /* Assets.xcassets */,
 				B90EDC751BC17513001A267E /* LaunchScreen.storyboard */,
 				B90EDC781BC17513001A267E /* Info.plist */,
+				B90EDC9A1BC1774C001A267E /* MyPlayground.playground */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
